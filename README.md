@@ -17,7 +17,7 @@ yarn add twitter-extract-mentions
 
 ```js
 const extractMentions = require('twitter-extract-mentions');
-
+const usernameLength = 15;
 extractMentions('hey @Elon', usernameLength); // usernameLength default to 30 char
 ```
 
