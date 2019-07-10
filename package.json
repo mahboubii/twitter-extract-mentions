@@ -1,7 +1,7 @@
 {
   "name": "twitter-extract-mentions",
   "description": "extractMentions function of twitter-text lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Amin Mahboubi <aminmahboobi@gmail.com> ()",
   "main": "./lib/index.js",
   "scripts": {
